@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-resident-advisor",
+  "version": "0.1.0",
+  "description": "Resident Advisor (ra.co) MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-resident-advisor": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "resident-advisor"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-resident-advisor.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-9192e77d311d035cc0f0ee254dd2709eaab5dbf30b5b7185395f596b2cd75d2f",
+    "sourceCommit": "8dbe088fb6f9d2c88f934173742329b4e20a67d6"
+  }
+}
