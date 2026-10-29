@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/resident-advisor",
   "title": "Resident Advisor",
   "description": "Resident Advisor (ra.co) MCP.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/resident-advisor",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-resident-advisor",
