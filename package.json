@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-resident-advisor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Resident Advisor (ra.co) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "resident-advisor",
     "gatewaySlug": "resident-advisor",
-    "sourceHash": "v1-afabbf0081f2cb70100f744a6dffc79817c00288ccdd589d56949c8b2b067f0d",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-f6974e885ae7158fdf1b7d90051809845a282147701c9d96c1c20235442e7839",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
